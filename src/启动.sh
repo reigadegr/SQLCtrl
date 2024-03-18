@@ -1,1 +1,1 @@
-./sqlctrl profile.conf
+./SQLCtrl profile.conf
