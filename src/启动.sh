@@ -1,0 +1,1 @@
+./sqlctrl profile.conf
